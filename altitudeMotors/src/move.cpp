@@ -1,5 +1,5 @@
 #include <Arduino.h>
-#include "myheader.h"
+#include "common.h"
 
 // function to stop motors, returns nothing
 void stopMotors(){
