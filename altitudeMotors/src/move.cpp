@@ -1,4 +1,3 @@
-#include <Arduino.h>
 #include "common.h"
 
 // function to stop motors, returns nothing

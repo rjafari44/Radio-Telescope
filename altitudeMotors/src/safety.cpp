@@ -1,4 +1,3 @@
-#include <Arduino.h>
 #include "common.h"
 
 float readCurrent(int csPin) {

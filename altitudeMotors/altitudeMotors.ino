@@ -1,4 +1,3 @@
-#include <Arduino.h>
 #include "common.h"
 
 // variables for calculating joystick value

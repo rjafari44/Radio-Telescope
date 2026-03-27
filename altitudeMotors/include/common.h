@@ -1,5 +1,7 @@
 #pragma once
 
+#include <Arduino.h>
+
 // motor driver pins
 constexpr int M1_INA{2};
 constexpr int M1_INB{3};
