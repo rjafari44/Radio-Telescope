@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Ask the user for their arduino board
+# Ask the user for their arduino board port
 read -p "Enter your Arduino Port (e.g., /dev/ttyACM0): " PORT
 
 arduino-cli compile --fqbn arduino:avr:uno --build-property "compiler.cpp.extra_flags=-Iinclude" .
